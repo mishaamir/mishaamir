@@ -36,9 +36,10 @@ I'm a Software Engineering student with a passion for full stack web development
 
 ## 📫 Connect With Me
 
+📧 mishaamir357@gmail.com
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mishaamir)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mishaamir)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mishaamir357@gmail.com)
 
 ---
 
