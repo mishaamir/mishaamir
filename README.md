@@ -1,6 +1,6 @@
 # Hey, I'm Misha Amir 👋
 
-### Aspiring Full Stack PHP Developer | Building Clean & Functional Web Applications
+### Full Stack PHP Developer | Building Clean & Functional Web Applications
 
 I'm a Software Engineering student with a passion for full stack web development. My journey started with frontend development — building responsive interfaces with HTML, CSS, and JavaScript — and expanded into backend development with PHP and MySQL. I enjoy every stage of the development process, from designing databases to crafting user-friendly interfaces.
 
